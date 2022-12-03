@@ -4,7 +4,6 @@ using System;
 var inputFile = File.ReadAllText(Path.Combine(Environment.CurrentDirectory, "input.txt"));
 var rucksackArray = inputFile.Split(Environment.NewLine);
 
-
 // task 1
 var task1Result = 0;
 
